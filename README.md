@@ -1,10 +1,10 @@
 # Simple-Calculator
 
-Details of SIMPLE CALCULATOR Folder"\t"
-1.Calc_Server_Nodejs"\t"
-1.a.app.js"\t"
-1.b.index.html"\t"
-This is a nodejs Calculator application using nodejs,Express.js It use POST request."\t"
+Details of SIMPLE CALCULATOR Folder<br/>
+1.Calc_Server_Nodejs<br/>
+1.a.app.js<br/>
+1.b.index.html<br/>
+This is a nodejs Calculator application using nodejs,Express.js It use POST request.<br/>
 
 2.Calculator_JS"\t"
 2.a.app.js
