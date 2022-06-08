@@ -1,3 +1,4 @@
+//Hello
 num1=document.getElementById("number1");
 num2=document.getElementById("number2");
 
